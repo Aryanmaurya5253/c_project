@@ -1,0 +1,58 @@
+TN-1763229096-4969|aryan |train|Delhi|New Delhi|29/7/8009|2ac|2|2.81
+Mode: Bus
+Seat: AC Sleeper
+State: Uttarakhand
+District: Dehradun
+Tickets: 1
+Total Fare: 700.00
+------------------------
+Mode: Bus
+Seat: AC Sleeper
+State: Uttarakhand
+District: Dehradun
+Tickets: 1
+Total Fare: 700.00
+------------------------
+Mode: Bus!
+Seat: 3AC
+State: Uttarakhand
+District: Haridwar
+Tickets: 3
+Total Fare: 2400.00
+------------------------
+Mode: Train!
+Seat: 1AC
+State: Uttar Pradesh
+District: Varanasi
+Tickets: 2
+Total Fare: 3600.00
+Mode: Bus!
+Seat: General
+State: Uttarakhand
+District: Dehradun
+Tickets: 1
+Total Fare: 150.00
+Mode: Bus!
+Seat: General
+State: Uttarakhand
+District: Dehradun
+Tickets: 1
+Total Fare: 150.00
+Mode: Bus!
+Seat: General
+State: Uttarakhand
+District: Dehradun
+Tickets: 1
+Total Fare: 150.00
+Mode: Bus!
+Seat: General
+State: Uttarakhand
+District: Dehradun
+Tickets: 1
+Total Fare: 150.00
+Mode: Bus!
+Seat: General
+State: Uttarakhand
+District: Dehradun
+Tickets: 1
+Total Fare: 150.00
