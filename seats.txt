@@ -1,0 +1,378 @@
+Uttarakhand|Dehradun|Bus|AC-Seater|50
+Uttarakhand|Dehradun|Bus|AC-Sleeper|50
+Uttarakhand|Dehradun|Bus|NonAC-Seater|50
+Uttarakhand|Dehradun|Bus|NonAC-Sleeper|50
+Uttarakhand|Dehradun|Train|General|50
+Uttarakhand|Dehradun|Train|Sleeper|50
+Uttarakhand|Dehradun|Train|3AC|50
+Uttarakhand|Dehradun|Train|2AC|50
+Uttarakhand|Dehradun|Train|1AC|50
+Uttarakhand|Haridwar|Bus|AC-Seater|50
+Uttarakhand|Haridwar|Bus|AC-Sleeper|50
+Uttarakhand|Haridwar|Bus|NonAC-Seater|50
+Uttarakhand|Haridwar|Bus|NonAC-Sleeper|50
+Uttarakhand|Haridwar|Train|General|50
+Uttarakhand|Haridwar|Train|Sleeper|50
+Uttarakhand|Haridwar|Train|3AC|50
+Uttarakhand|Haridwar|Train|2AC|50
+Uttarakhand|Haridwar|Train|1AC|50
+Uttarakhand|Nainital|Bus|AC-Seater|50
+Uttarakhand|Nainital|Bus|AC-Sleeper|50
+Uttarakhand|Nainital|Bus|NonAC-Seater|50
+Uttarakhand|Nainital|Bus|NonAC-Sleeper|50
+Uttarakhand|Nainital|Train|General|50
+Uttarakhand|Nainital|Train|Sleeper|50
+Uttarakhand|Nainital|Train|3AC|50
+Uttarakhand|Nainital|Train|2AC|50
+Uttarakhand|Nainital|Train|1AC|50
+Uttarakhand|Pauri|Bus|AC-Seater|50
+Uttarakhand|Pauri|Bus|AC-Sleeper|50
+Uttarakhand|Pauri|Bus|NonAC-Seater|50
+Uttarakhand|Pauri|Bus|NonAC-Sleeper|50
+Uttarakhand|Pauri|Train|General|50
+Uttarakhand|Pauri|Train|Sleeper|50
+Uttarakhand|Pauri|Train|3AC|50
+Uttarakhand|Pauri|Train|2AC|50
+Uttarakhand|Pauri|Train|1AC|50
+Uttarakhand|Tehri|Bus|AC-Seater|50
+Uttarakhand|Tehri|Bus|AC-Sleeper|50
+Uttarakhand|Tehri|Bus|NonAC-Seater|50
+Uttarakhand|Tehri|Bus|NonAC-Sleeper|50
+Uttarakhand|Tehri|Train|General|50
+Uttarakhand|Tehri|Train|Sleeper|50
+Uttarakhand|Tehri|Train|3AC|50
+Uttarakhand|Tehri|Train|2AC|50
+Uttarakhand|Tehri|Train|1AC|50
+Uttarakhand|Udham Singh Nagar|Bus|AC-Seater|50
+Uttarakhand|Udham Singh Nagar|Bus|AC-Sleeper|50
+Uttarakhand|Udham Singh Nagar|Bus|NonAC-Seater|50
+Uttarakhand|Udham Singh Nagar|Bus|NonAC-Sleeper|50
+Uttarakhand|Udham Singh Nagar|Train|General|50
+Uttarakhand|Udham Singh Nagar|Train|Sleeper|50
+Uttarakhand|Udham Singh Nagar|Train|3AC|50
+Uttarakhand|Udham Singh Nagar|Train|2AC|50
+Uttarakhand|Udham Singh Nagar|Train|1AC|50
+Delhi|New Delhi|Bus|AC-Seater|50
+Delhi|New Delhi|Bus|AC-Sleeper|50
+Delhi|New Delhi|Bus|NonAC-Seater|50
+Delhi|New Delhi|Bus|NonAC-Sleeper|50
+Delhi|New Delhi|Train|General|50
+Delhi|New Delhi|Train|Sleeper|50
+Delhi|New Delhi|Train|3AC|50
+Delhi|New Delhi|Train|2AC|48
+Delhi|New Delhi|Train|1AC|50
+Delhi|North Delhi|Bus|AC-Seater|50
+Delhi|North Delhi|Bus|AC-Sleeper|50
+Delhi|North Delhi|Bus|NonAC-Seater|50
+Delhi|North Delhi|Bus|NonAC-Sleeper|50
+Delhi|North Delhi|Train|General|50
+Delhi|North Delhi|Train|Sleeper|50
+Delhi|North Delhi|Train|3AC|50
+Delhi|North Delhi|Train|2AC|50
+Delhi|North Delhi|Train|1AC|50
+Delhi|South Delhi|Bus|AC-Seater|50
+Delhi|South Delhi|Bus|AC-Sleeper|50
+Delhi|South Delhi|Bus|NonAC-Seater|50
+Delhi|South Delhi|Bus|NonAC-Sleeper|50
+Delhi|South Delhi|Train|General|50
+Delhi|South Delhi|Train|Sleeper|50
+Delhi|South Delhi|Train|3AC|50
+Delhi|South Delhi|Train|2AC|50
+Delhi|South Delhi|Train|1AC|50
+Delhi|East Delhi|Bus|AC-Seater|50
+Delhi|East Delhi|Bus|AC-Sleeper|50
+Delhi|East Delhi|Bus|NonAC-Seater|50
+Delhi|East Delhi|Bus|NonAC-Sleeper|50
+Delhi|East Delhi|Train|General|50
+Delhi|East Delhi|Train|Sleeper|50
+Delhi|East Delhi|Train|3AC|50
+Delhi|East Delhi|Train|2AC|50
+Delhi|East Delhi|Train|1AC|50
+Delhi|West Delhi|Bus|AC-Seater|50
+Delhi|West Delhi|Bus|AC-Sleeper|50
+Delhi|West Delhi|Bus|NonAC-Seater|50
+Delhi|West Delhi|Bus|NonAC-Sleeper|50
+Delhi|West Delhi|Train|General|50
+Delhi|West Delhi|Train|Sleeper|50
+Delhi|West Delhi|Train|3AC|50
+Delhi|West Delhi|Train|2AC|50
+Delhi|West Delhi|Train|1AC|50
+Delhi|Central Delhi|Bus|AC-Seater|50
+Delhi|Central Delhi|Bus|AC-Sleeper|50
+Delhi|Central Delhi|Bus|NonAC-Seater|50
+Delhi|Central Delhi|Bus|NonAC-Sleeper|50
+Delhi|Central Delhi|Train|General|50
+Delhi|Central Delhi|Train|Sleeper|50
+Delhi|Central Delhi|Train|3AC|50
+Delhi|Central Delhi|Train|2AC|50
+Delhi|Central Delhi|Train|1AC|50
+Maharashtra|Mumbai|Bus|AC-Seater|50
+Maharashtra|Mumbai|Bus|AC-Sleeper|50
+Maharashtra|Mumbai|Bus|NonAC-Seater|50
+Maharashtra|Mumbai|Bus|NonAC-Sleeper|50
+Maharashtra|Mumbai|Train|General|50
+Maharashtra|Mumbai|Train|Sleeper|50
+Maharashtra|Mumbai|Train|3AC|50
+Maharashtra|Mumbai|Train|2AC|50
+Maharashtra|Mumbai|Train|1AC|50
+Maharashtra|Pune|Bus|AC-Seater|50
+Maharashtra|Pune|Bus|AC-Sleeper|50
+Maharashtra|Pune|Bus|NonAC-Seater|50
+Maharashtra|Pune|Bus|NonAC-Sleeper|50
+Maharashtra|Pune|Train|General|50
+Maharashtra|Pune|Train|Sleeper|50
+Maharashtra|Pune|Train|3AC|50
+Maharashtra|Pune|Train|2AC|50
+Maharashtra|Pune|Train|1AC|50
+Maharashtra|Nagpur|Bus|AC-Seater|50
+Maharashtra|Nagpur|Bus|AC-Sleeper|50
+Maharashtra|Nagpur|Bus|NonAC-Seater|50
+Maharashtra|Nagpur|Bus|NonAC-Sleeper|50
+Maharashtra|Nagpur|Train|General|50
+Maharashtra|Nagpur|Train|Sleeper|50
+Maharashtra|Nagpur|Train|3AC|50
+Maharashtra|Nagpur|Train|2AC|50
+Maharashtra|Nagpur|Train|1AC|50
+Maharashtra|Nashik|Bus|AC-Seater|50
+Maharashtra|Nashik|Bus|AC-Sleeper|50
+Maharashtra|Nashik|Bus|NonAC-Seater|50
+Maharashtra|Nashik|Bus|NonAC-Sleeper|50
+Maharashtra|Nashik|Train|General|50
+Maharashtra|Nashik|Train|Sleeper|50
+Maharashtra|Nashik|Train|3AC|50
+Maharashtra|Nashik|Train|2AC|50
+Maharashtra|Nashik|Train|1AC|50
+Maharashtra|Thane|Bus|AC-Seater|50
+Maharashtra|Thane|Bus|AC-Sleeper|50
+Maharashtra|Thane|Bus|NonAC-Seater|50
+Maharashtra|Thane|Bus|NonAC-Sleeper|50
+Maharashtra|Thane|Train|General|50
+Maharashtra|Thane|Train|Sleeper|50
+Maharashtra|Thane|Train|3AC|50
+Maharashtra|Thane|Train|2AC|50
+Maharashtra|Thane|Train|1AC|50
+Maharashtra|Aurangabad|Bus|AC-Seater|50
+Maharashtra|Aurangabad|Bus|AC-Sleeper|50
+Maharashtra|Aurangabad|Bus|NonAC-Seater|50
+Maharashtra|Aurangabad|Bus|NonAC-Sleeper|50
+Maharashtra|Aurangabad|Train|General|50
+Maharashtra|Aurangabad|Train|Sleeper|50
+Maharashtra|Aurangabad|Train|3AC|50
+Maharashtra|Aurangabad|Train|2AC|50
+Maharashtra|Aurangabad|Train|1AC|50
+Uttar Pradesh|Lucknow|Bus|AC-Seater|50
+Uttar Pradesh|Lucknow|Bus|AC-Sleeper|50
+Uttar Pradesh|Lucknow|Bus|NonAC-Seater|50
+Uttar Pradesh|Lucknow|Bus|NonAC-Sleeper|50
+Uttar Pradesh|Lucknow|Train|General|50
+Uttar Pradesh|Lucknow|Train|Sleeper|50
+Uttar Pradesh|Lucknow|Train|3AC|50
+Uttar Pradesh|Lucknow|Train|2AC|50
+Uttar Pradesh|Lucknow|Train|1AC|50
+Uttar Pradesh|Prayagraj|Bus|AC-Seater|50
+Uttar Pradesh|Prayagraj|Bus|AC-Sleeper|50
+Uttar Pradesh|Prayagraj|Bus|NonAC-Seater|50
+Uttar Pradesh|Prayagraj|Bus|NonAC-Sleeper|50
+Uttar Pradesh|Prayagraj|Train|General|50
+Uttar Pradesh|Prayagraj|Train|Sleeper|50
+Uttar Pradesh|Prayagraj|Train|3AC|50
+Uttar Pradesh|Prayagraj|Train|2AC|50
+Uttar Pradesh|Prayagraj|Train|1AC|50
+Uttar Pradesh|Varanasi|Bus|AC-Seater|50
+Uttar Pradesh|Varanasi|Bus|AC-Sleeper|50
+Uttar Pradesh|Varanasi|Bus|NonAC-Seater|50
+Uttar Pradesh|Varanasi|Bus|NonAC-Sleeper|50
+Uttar Pradesh|Varanasi|Train|General|50
+Uttar Pradesh|Varanasi|Train|Sleeper|50
+Uttar Pradesh|Varanasi|Train|3AC|50
+Uttar Pradesh|Varanasi|Train|2AC|50
+Uttar Pradesh|Varanasi|Train|1AC|50
+Uttar Pradesh|Kanpur|Bus|AC-Seater|50
+Uttar Pradesh|Kanpur|Bus|AC-Sleeper|50
+Uttar Pradesh|Kanpur|Bus|NonAC-Seater|50
+Uttar Pradesh|Kanpur|Bus|NonAC-Sleeper|50
+Uttar Pradesh|Kanpur|Train|General|50
+Uttar Pradesh|Kanpur|Train|Sleeper|50
+Uttar Pradesh|Kanpur|Train|3AC|50
+Uttar Pradesh|Kanpur|Train|2AC|50
+Uttar Pradesh|Kanpur|Train|1AC|50
+Uttar Pradesh|Ghaziabad|Bus|AC-Seater|50
+Uttar Pradesh|Ghaziabad|Bus|AC-Sleeper|50
+Uttar Pradesh|Ghaziabad|Bus|NonAC-Seater|50
+Uttar Pradesh|Ghaziabad|Bus|NonAC-Sleeper|50
+Uttar Pradesh|Ghaziabad|Train|General|50
+Uttar Pradesh|Ghaziabad|Train|Sleeper|50
+Uttar Pradesh|Ghaziabad|Train|3AC|50
+Uttar Pradesh|Ghaziabad|Train|2AC|50
+Uttar Pradesh|Ghaziabad|Train|1AC|50
+Uttar Pradesh|Agra|Bus|AC-Seater|50
+Uttar Pradesh|Agra|Bus|AC-Sleeper|50
+Uttar Pradesh|Agra|Bus|NonAC-Seater|50
+Uttar Pradesh|Agra|Bus|NonAC-Sleeper|50
+Uttar Pradesh|Agra|Train|General|50
+Uttar Pradesh|Agra|Train|Sleeper|50
+Uttar Pradesh|Agra|Train|3AC|50
+Uttar Pradesh|Agra|Train|2AC|50
+Uttar Pradesh|Agra|Train|1AC|50
+Karnataka|Bengaluru|Bus|AC-Seater|50
+Karnataka|Bengaluru|Bus|AC-Sleeper|50
+Karnataka|Bengaluru|Bus|NonAC-Seater|50
+Karnataka|Bengaluru|Bus|NonAC-Sleeper|50
+Karnataka|Bengaluru|Train|General|50
+Karnataka|Bengaluru|Train|Sleeper|50
+Karnataka|Bengaluru|Train|3AC|50
+Karnataka|Bengaluru|Train|2AC|50
+Karnataka|Bengaluru|Train|1AC|50
+Karnataka|Mysuru|Bus|AC-Seater|50
+Karnataka|Mysuru|Bus|AC-Sleeper|50
+Karnataka|Mysuru|Bus|NonAC-Seater|50
+Karnataka|Mysuru|Bus|NonAC-Sleeper|50
+Karnataka|Mysuru|Train|General|50
+Karnataka|Mysuru|Train|Sleeper|50
+Karnataka|Mysuru|Train|3AC|50
+Karnataka|Mysuru|Train|2AC|50
+Karnataka|Mysuru|Train|1AC|50
+Karnataka|Mangalore|Bus|AC-Seater|50
+Karnataka|Mangalore|Bus|AC-Sleeper|50
+Karnataka|Mangalore|Bus|NonAC-Seater|50
+Karnataka|Mangalore|Bus|NonAC-Sleeper|50
+Karnataka|Mangalore|Train|General|50
+Karnataka|Mangalore|Train|Sleeper|50
+Karnataka|Mangalore|Train|3AC|50
+Karnataka|Mangalore|Train|2AC|50
+Karnataka|Mangalore|Train|1AC|50
+Karnataka|Hubli|Bus|AC-Seater|50
+Karnataka|Hubli|Bus|AC-Sleeper|50
+Karnataka|Hubli|Bus|NonAC-Seater|50
+Karnataka|Hubli|Bus|NonAC-Sleeper|50
+Karnataka|Hubli|Train|General|50
+Karnataka|Hubli|Train|Sleeper|50
+Karnataka|Hubli|Train|3AC|50
+Karnataka|Hubli|Train|2AC|50
+Karnataka|Hubli|Train|1AC|50
+Karnataka|Dharwad|Bus|AC-Seater|50
+Karnataka|Dharwad|Bus|AC-Sleeper|50
+Karnataka|Dharwad|Bus|NonAC-Seater|50
+Karnataka|Dharwad|Bus|NonAC-Sleeper|50
+Karnataka|Dharwad|Train|General|50
+Karnataka|Dharwad|Train|Sleeper|50
+Karnataka|Dharwad|Train|3AC|50
+Karnataka|Dharwad|Train|2AC|50
+Karnataka|Dharwad|Train|1AC|50
+Karnataka|Belagavi|Bus|AC-Seater|50
+Karnataka|Belagavi|Bus|AC-Sleeper|50
+Karnataka|Belagavi|Bus|NonAC-Seater|50
+Karnataka|Belagavi|Bus|NonAC-Sleeper|50
+Karnataka|Belagavi|Train|General|50
+Karnataka|Belagavi|Train|Sleeper|50
+Karnataka|Belagavi|Train|3AC|50
+Karnataka|Belagavi|Train|2AC|50
+Karnataka|Belagavi|Train|1AC|50
+Tamil Nadu|Chennai|Bus|AC-Seater|50
+Tamil Nadu|Chennai|Bus|AC-Sleeper|50
+Tamil Nadu|Chennai|Bus|NonAC-Seater|50
+Tamil Nadu|Chennai|Bus|NonAC-Sleeper|50
+Tamil Nadu|Chennai|Train|General|50
+Tamil Nadu|Chennai|Train|Sleeper|50
+Tamil Nadu|Chennai|Train|3AC|50
+Tamil Nadu|Chennai|Train|2AC|50
+Tamil Nadu|Chennai|Train|1AC|50
+Tamil Nadu|Coimbatore|Bus|AC-Seater|50
+Tamil Nadu|Coimbatore|Bus|AC-Sleeper|50
+Tamil Nadu|Coimbatore|Bus|NonAC-Seater|50
+Tamil Nadu|Coimbatore|Bus|NonAC-Sleeper|50
+Tamil Nadu|Coimbatore|Train|General|50
+Tamil Nadu|Coimbatore|Train|Sleeper|50
+Tamil Nadu|Coimbatore|Train|3AC|50
+Tamil Nadu|Coimbatore|Train|2AC|50
+Tamil Nadu|Coimbatore|Train|1AC|50
+Tamil Nadu|Madurai|Bus|AC-Seater|50
+Tamil Nadu|Madurai|Bus|AC-Sleeper|50
+Tamil Nadu|Madurai|Bus|NonAC-Seater|50
+Tamil Nadu|Madurai|Bus|NonAC-Sleeper|50
+Tamil Nadu|Madurai|Train|General|50
+Tamil Nadu|Madurai|Train|Sleeper|50
+Tamil Nadu|Madurai|Train|3AC|50
+Tamil Nadu|Madurai|Train|2AC|50
+Tamil Nadu|Madurai|Train|1AC|50
+Tamil Nadu|Tiruchirapalli|Bus|AC-Seater|50
+Tamil Nadu|Tiruchirapalli|Bus|AC-Sleeper|50
+Tamil Nadu|Tiruchirapalli|Bus|NonAC-Seater|50
+Tamil Nadu|Tiruchirapalli|Bus|NonAC-Sleeper|50
+Tamil Nadu|Tiruchirapalli|Train|General|50
+Tamil Nadu|Tiruchirapalli|Train|Sleeper|50
+Tamil Nadu|Tiruchirapalli|Train|3AC|50
+Tamil Nadu|Tiruchirapalli|Train|2AC|50
+Tamil Nadu|Tiruchirapalli|Train|1AC|50
+Tamil Nadu|Salem|Bus|AC-Seater|50
+Tamil Nadu|Salem|Bus|AC-Sleeper|50
+Tamil Nadu|Salem|Bus|NonAC-Seater|50
+Tamil Nadu|Salem|Bus|NonAC-Sleeper|50
+Tamil Nadu|Salem|Train|General|50
+Tamil Nadu|Salem|Train|Sleeper|50
+Tamil Nadu|Salem|Train|3AC|50
+Tamil Nadu|Salem|Train|2AC|50
+Tamil Nadu|Salem|Train|1AC|50
+Tamil Nadu|Erode|Bus|AC-Seater|50
+Tamil Nadu|Erode|Bus|AC-Sleeper|50
+Tamil Nadu|Erode|Bus|NonAC-Seater|50
+Tamil Nadu|Erode|Bus|NonAC-Sleeper|50
+Tamil Nadu|Erode|Train|General|50
+Tamil Nadu|Erode|Train|Sleeper|50
+Tamil Nadu|Erode|Train|3AC|50
+Tamil Nadu|Erode|Train|2AC|50
+Tamil Nadu|Erode|Train|1AC|50
+Rajasthan|Jaipur|Bus|AC-Seater|50
+Rajasthan|Jaipur|Bus|AC-Sleeper|50
+Rajasthan|Jaipur|Bus|NonAC-Seater|50
+Rajasthan|Jaipur|Bus|NonAC-Sleeper|50
+Rajasthan|Jaipur|Train|General|50
+Rajasthan|Jaipur|Train|Sleeper|50
+Rajasthan|Jaipur|Train|3AC|50
+Rajasthan|Jaipur|Train|2AC|50
+Rajasthan|Jaipur|Train|1AC|50
+Rajasthan|Jodhpur|Bus|AC-Seater|50
+Rajasthan|Jodhpur|Bus|AC-Sleeper|50
+Rajasthan|Jodhpur|Bus|NonAC-Seater|50
+Rajasthan|Jodhpur|Bus|NonAC-Sleeper|50
+Rajasthan|Jodhpur|Train|General|50
+Rajasthan|Jodhpur|Train|Sleeper|50
+Rajasthan|Jodhpur|Train|3AC|50
+Rajasthan|Jodhpur|Train|2AC|50
+Rajasthan|Jodhpur|Train|1AC|50
+Rajasthan|Udaipur|Bus|AC-Seater|50
+Rajasthan|Udaipur|Bus|AC-Sleeper|50
+Rajasthan|Udaipur|Bus|NonAC-Seater|50
+Rajasthan|Udaipur|Bus|NonAC-Sleeper|50
+Rajasthan|Udaipur|Train|General|50
+Rajasthan|Udaipur|Train|Sleeper|50
+Rajasthan|Udaipur|Train|3AC|50
+Rajasthan|Udaipur|Train|2AC|50
+Rajasthan|Udaipur|Train|1AC|50
+Rajasthan|Ajmer|Bus|AC-Seater|50
+Rajasthan|Ajmer|Bus|AC-Sleeper|50
+Rajasthan|Ajmer|Bus|NonAC-Seater|50
+Rajasthan|Ajmer|Bus|NonAC-Sleeper|50
+Rajasthan|Ajmer|Train|General|50
+Rajasthan|Ajmer|Train|Sleeper|50
+Rajasthan|Ajmer|Train|3AC|50
+Rajasthan|Ajmer|Train|2AC|50
+Rajasthan|Ajmer|Train|1AC|50
+Rajasthan|Bikaner|Bus|AC-Seater|50
+Rajasthan|Bikaner|Bus|AC-Sleeper|50
+Rajasthan|Bikaner|Bus|NonAC-Seater|50
+Rajasthan|Bikaner|Bus|NonAC-Sleeper|50
+Rajasthan|Bikaner|Train|General|50
+Rajasthan|Bikaner|Train|Sleeper|50
+Rajasthan|Bikaner|Train|3AC|50
+Rajasthan|Bikaner|Train|2AC|50
+Rajasthan|Bikaner|Train|1AC|50
+Rajasthan|Alwar|Bus|AC-Seater|50
+Rajasthan|Alwar|Bus|AC-Sleeper|50
+Rajasthan|Alwar|Bus|NonAC-Seater|50
+Rajasthan|Alwar|Bus|NonAC-Sleeper|50
+Rajasthan|Alwar|Train|General|50
+Rajasthan|Alwar|Train|Sleeper|50
+Rajasthan|Alwar|Train|3AC|50
+Rajasthan|Alwar|Train|2AC|50
+Rajasthan|Alwar|Train|1AC|50
